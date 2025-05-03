@@ -39,26 +39,17 @@
 ## 📁 Project Structure
 
 
-RoadWise_Analytics/
-├── Data_Cleaning_and_Feature_Manipulation_UK_Road_Safety_Traffic_Accidents_and_Vehicles.ipynb
-├── Machine_Learning_UK_Road_Safety_Traffic_Accidents_and_Vehicles.ipynb
-├── Visualizations_and_Solution_UK_Road_Safety_Traffic_Accidents_and_Vehicles.ipynb
-├── UK_Road_Safety_Traffic_Accidents_and_Vehicles.ipynb
-├── HTML PDF and Powerpoint Presentation/
-├── .ipynb_checkpoints/
-└── README.md
+RoadWise_Analytics/  
+├── Data_Cleaning_and_Feature_Manipulation_UK_Road_Safety_Traffic_Accidents_and_Vehicles.ipynb  
+├── Machine_Learning_UK_Road_Safety_Traffic_Accidents_and_Vehicles.ipynb  
+├── Visualizations_and_Solution_UK_Road_Safety_Traffic_Accidents_and_Vehicles.ipynb  
+├── UK_Road_Safety_Traffic_Accidents_and_Vehicles.ipynb  
+├── HTML PDF and Powerpoint Presentation/  
+├── .ipynb_checkpoints/  
+└── README.md  
 
 
 ---
-
-## 📈 Sample Visualization
-
-![Accident Severity Distribution](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-*An animated representation of accident severity distribution across different regions.*
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone the repository**:
@@ -92,7 +83,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 - **Author**: Krish Garg
 - **GitHub**: [@KrishGarg001](https://github.com/KrishGarg001)
-
+- **Gmail**: zexuxkrish123@gmail.com
 ---
 
 <p align="center">
